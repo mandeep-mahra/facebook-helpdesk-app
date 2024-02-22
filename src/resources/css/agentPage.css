@@ -1,0 +1,51 @@
+.msgArea{
+    background-color: #e5eeee;
+}
+.ctlArea{
+    background-color: #eff2f7;
+}
+.taskbar{
+    width : 10%;
+}
+.icons{
+    width : 40%;
+    margin : 0;
+}
+.conLogo{
+    cursor: pointer;
+    width : 50%
+}
+.sidepanel{
+    height : 30%;
+}
+.textarea{
+    overflow-y: auto;
+    font-size: 2.1vh;
+    height : 75%;
+    
+}
+.customer{
+    font-size: 2vh;
+}
+.textLeft{
+    max-width: 70%;
+    width: fit-content;
+}
+.textRight{
+    display: block;
+    align-self: flex-end;
+    max-width: 70%;
+    width: fit-content;
+}
+.small{
+    font-size: 2vh;
+}
+.user{
+    width : 20%;
+    border-radius: 50%;
+}
+.smBut{
+    border: 0.1em solid #acafaf;
+    border-radius: 10%;
+    cursor: pointer;
+}
